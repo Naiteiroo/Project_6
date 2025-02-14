@@ -1,20 +1,20 @@
 # PROJECT-6. Сегментация клиентов онлайн магазина подарков
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/Naiteiroo/Project_3/blob/main/README.md#Описание-проекта)
+[1. Описание проекта](https://github.com/Naiteiroo/Project_6/blob/main/README.md#Описание-проекта)
 
-[2. Какой кейс решаем?](https://github.com/Naiteiroo/Project_3/blob/main/README.md#Какой-кейс-решаем)
+[2. Какой кейс решаем?](https://github.com/Naiteiroo/Project_6/blob/main/README.md#Какой-кейс-решаем)
 
-[3. Краткая информация о данных](https://github.com/Naiteiroo/Project_3/blob/main/README.md#Краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/Naiteiroo/Project_6/blob/main/README.md#Краткая-информация-о-данных)
 
-[4. Этапы работы над проектом](https://github.com/Naiteiroo/Project_3/blob/main/README.md#Этапы-работы-над-проектом)
+[4. Этапы работы над проектом](https://github.com/Naiteiroo/Project_6/blob/main/README.md#Этапы-работы-над-проектом)
 
-[5. Результат](https://github.com/Naiteiroo/Project_3/blob/main/README.md#Результат)    
+[5. Результат](https://github.com/Naiteiroo/Project_6/blob/main/README.md#Результат)    
 
 ### Описание проекта    
 Построить модель кластеризации клиентов на основе их покупательской способности, частоты заказов и срока давности последней покупки, определить профиль каждого из кластеров.
 
-:arrow_up:[к оглавлению](https://github.com/Naiteiroo/Project_3/blob/main/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Naiteiroo/Project_6/blob/main/README.md#Оглавление)
 
 ### Какой кейс решаем? 
 Большинство интернет-магазинов используют инструменты веб-аналитики, чтобы отслеживать просмотры страниц, количество и поведение посетителей и коэффициент отказов. Но отчёта из Google Analytics или аналогичной системы может быть недостаточно для полного понимания того, как клиенты взаимодействуют с сайтом. Компаниям важно иметь возможность быстро и точно реагировать на перемены в поведении клиентов, создавая инструменты, которые обнаруживают эти изменения практически в режиме реального времени.
@@ -49,4 +49,4 @@
 
 5. Спроектирован процесс предсказания категории интересов клиента и протестирована модель на новых клиентах.
 
-:arrow_up:[к оглавлению](https://github.com/Naiteiroo/Project_3/blob/main/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Naiteiroo/Project_6/blob/main/README.md#Оглавление)
